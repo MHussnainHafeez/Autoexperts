@@ -1,0 +1,37 @@
+
+
+.serheading{
+    font-size: 30px;
+} 
+
+.serviceheading{
+    text-align: center ;
+    font-size: 35px;
+    font-weight: bold;
+}
+.servicedescription{
+    
+
+    text-align: center;
+
+
+}
+.learnmorebtn{
+    
+    margin-left: 800px;
+    border: 1px solid white;
+    background-color: #2a68ff;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 4px;
+    width: 150px;
+}
+.card{
+    width: 80%;
+}
+.card:hover{
+    background-image: linear-gradient(180deg,#2a68ff,#888d8c );
+    transition: 0.9s;
+    color: wheat;
+
+}
